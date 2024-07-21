@@ -14,3 +14,4 @@ config/lt*.m4
 config/missing
 
 config/test-driver
+build/
